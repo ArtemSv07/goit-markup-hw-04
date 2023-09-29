@@ -1,6 +1,6 @@
 :root {
     --fill: #f4f4fd;
-    --white: #FFFFFF;
+    --white-color: #FFFFFF;
 }
 
 body {
@@ -475,7 +475,7 @@ img {
 .paragraph-footer-two {
     font-weight: 500;
     margin-bottom: 16px;
-    color: var(--white);
+    color: var(--white-color);
 }
 
 .social-list-link-footer:hover,
